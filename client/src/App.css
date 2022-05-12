@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@200;300&display=swap');
+
+.fonts{
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.mt{
+    height: "100vh";
+}
+
+@media screen and (max-width: 600px) {
+    .mt{
+        height: auto;
+    }
+  }
+

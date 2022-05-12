@@ -1,0 +1,41 @@
+.ce-chat-title-container{
+    background-color: transparent;
+}
+#msg-form-container{
+    width: fit-content !important;
+}
+.ce-chat-title-container{
+    display: none;
+}
+.ce-chat-title{
+    display: none !important;
+
+}
+.ce-active-chat-card{
+background-color: #35cce6!important;
+}
+.ce-chat-card{
+
+}
+.ce-chat-subtitle-text{
+    color: white!important;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }

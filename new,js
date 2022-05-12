@@ -1,0 +1,9 @@
+npm i react react-redux
+actions
+contants
+reducers
+store
+
+
+useDispatch
+useSelector
